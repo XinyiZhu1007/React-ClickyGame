@@ -10,7 +10,7 @@ If you clicked the same picture twice, you lose the game.
 If you successfully clicked all 12 pictures, you win :)
 
 ##### Deployed to Heroku at:
-[Heroku](https://git.heroku.com/whispering-peak-61226.git)
+[Heroku](https://salty-ravine-74463.herokuapp.com/)
 
 ### Notable technology:
 ##### *front-end:
